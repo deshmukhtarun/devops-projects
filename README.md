@@ -62,7 +62,7 @@ and heals itself.
 ## Project Phases
 
 - [x] Phase 1 — Flask app running in Docker with health check endpoint
-- [ ] Phase 2 — Prometheus scraping app metrics
+- [x] Phase 2 — Prometheus scraping app metrics
 - [ ] Phase 3 — Grafana dashboard for uptime and request rate
 - [ ] Phase 4 — Alertmanager firing on app crash
 - [ ] Phase 5 — Python healing script auto-restarting failed container
